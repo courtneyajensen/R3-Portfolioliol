@@ -10,7 +10,7 @@
 }
 
 .header-bg {
-    background-color: #545C52;
+    background-color: #2b061e;
     transform: 0.5s;
 }
 .nav-menu {
@@ -48,7 +48,7 @@
 
     .nav-menu.active {
         left: 0;
-        background-color: #98E2C6;
+        background-color: #fbbfca;
     }
 
     .nav-menu li {

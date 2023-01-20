@@ -1,4 +1,4 @@
-import "./NavbarStyle.css";
+import "./css/NavbarStyle.css";
 import React from "react";
 import { Link } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";

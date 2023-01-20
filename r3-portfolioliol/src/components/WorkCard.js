@@ -1,4 +1,4 @@
-import "../components/WorkCardStyles.css";
+import "./css/WorkCardStyles.css";
 import React from 'react'
 
 const WorkCard = (props) => {

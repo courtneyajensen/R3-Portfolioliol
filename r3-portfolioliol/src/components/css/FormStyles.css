@@ -1,5 +1,5 @@
 label {
-    color: #BBC7CE;
+    color: #fbbfca;
     margin-bottom: 0.5rem;
 }
 
@@ -15,7 +15,7 @@ form input, form textarea {
     margin-bottom: 1rem;
     padding: 10px 18px;
     font-size: 1.2rem;
-    background-color: #545C52 ;
-    border-color: #98E2C6;
-    color: #BBC7CE;
+    background-color: #d2bf55 ;
+    border-color: #d2bf55;
+    color: #2b061e;
 }

@@ -1,7 +1,7 @@
 .footer {
     width: 100%;
     padding: 6rem 0;
-    background-color: #C4B7CB;
+    background-color: #d2bf55;
 }
 
 .footer-container {
@@ -47,7 +47,7 @@
 }
 
 .email a:hover {
-    color: #545C52;
+    color: #fbbfca;
 }
 
 .right {
@@ -73,7 +73,7 @@
   }
 
 .right a:hover {
-    color: #545C52;
+    color: #fbbfca;
 }
 
 @media screen and (max-width: 640px) {

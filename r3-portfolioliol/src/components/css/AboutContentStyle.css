@@ -1,0 +1,50 @@
+.about {
+    width: 100%;
+    height: 65vh;
+    margin: 3rem 0;
+    display: flex;
+    align-items: justify;
+    justify-content: flex;
+    flex-wrap: wrap;
+    background-position: left;
+}
+
+.about h1 {
+    color: #fbbfca;
+
+  }
+
+  .about .left {
+    height: 20vh;
+    text-align: justify;
+    margin: auto;
+    padding: 1rem;
+    max-width: 350px;
+  }
+
+  .about .left p {
+    font-size: 12pt;
+    margin: 0 0 0 0;
+    color: #fbbfca;
+  }
+
+  .left .btn {
+    width: 150px;
+    display: flex; 
+    justify-content:center;
+    padding: 0.5rem;
+    padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: #875053;
+  color: #2b061e;
+  border: 1px solid #d2bf55;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.left .btn:hover {
+    background: #fbbfca;
+    color: #2b061e;
+    transition: 0.15s;
+  }

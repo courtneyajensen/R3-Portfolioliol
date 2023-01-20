@@ -6,17 +6,18 @@ import Contact from './routes/Contact';
 import Project from './routes/Project';
 
 import { Route, Routes } from "react-router-dom"
-import Form from './components/Form';
 
 function App() {
   return (
-       <div className="flex w-full h-screen" >
-            <div className="w-full flex items-center justify-center lg:w-1/2">
-                <Form />
-            </div>
-        </div>
-      
-
+    <>
+      <Routes>
+        <Route path="/" element={<Home />}/>
+        <Route path="/Portfolio2.0lio" element={<About />}/>
+        <Route path="/about" element={<About />}/>
+        <Route path="/contact" element={<Contact />}/>
+        <Route path="/project" element={<Project />}/>
+      </Routes>
+    </>
   );
 }
 

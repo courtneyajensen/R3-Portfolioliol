@@ -13,7 +13,6 @@
 }
 
 .project-card {
-    background: #545C52;
     padding: 1.2rem 1rem;
 
 }
@@ -25,7 +24,7 @@
 
 .project-title {
     text-align: center;
-    color: #BBC7CE;
+    color: #2b061e;
     padding: 1rem 0;
 }
 

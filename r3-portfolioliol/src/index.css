@@ -8,14 +8,14 @@
 }
 
 body {
-  background-color: #545C52;
+  background-color: #2b061e;
 }
 
 h1,
 h4,
 p,
 a {
-  color: #BBC7CE;
+  color: #875053;
   text-decoration: none;
 }
 
@@ -27,20 +27,20 @@ ul {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
-  background: #98E2C6;
-  color: #545C52;
-  border: 1px solid #C4B7CB;
+  background: #875053;
+  color: #2b061e;
+  border: 1px solid #d2bf55;
   font-weight: 600;
   cursor: pointer;
 }
 
 .btn-light {
   background: transparent;
-  color: #BFEDEF;
+  color: #fbbfca;
 }
 
 .btn:hover {
-  background: #545C52;
-  color: #98E2C6;
+  background: #fbbfca;
+  color: #ffeed6;
   transition: 0.15s;
 }
