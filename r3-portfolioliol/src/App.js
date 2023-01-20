@@ -9,15 +9,13 @@ import { Route, Routes } from "react-router-dom"
 
 function App() {
   return (
-    <>
-      <Routes>
-        <Route path="/" element={<Home />}/>
-        <Route path="/r3-portfolioliol" element={<About />}/>
-        <Route path="/about" element={<About />}/>
-        <Route path="/contact" element={<Contact />}/>
-        <Route path="/project" element={<Project />}/>
-      </Routes>
-    </>
+       <div className="flex w-full h-screen" >
+            <div className="w-full flex items-center justify-center lg:w-1/2">
+                <About />
+            </div>
+        </div>
+      
+
   );
 }
 
