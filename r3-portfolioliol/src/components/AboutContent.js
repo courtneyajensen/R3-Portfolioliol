@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const AboutContent = () => {
     return (
         <div className='about'>
-            <div className='left'>
+            <div className='body'>
                 <h1>About Me</h1>
                 <p>I am a junior full stack developer who is always looking for a challenge. 
                     I love to create different things and am excited to show you what I've got!</p>

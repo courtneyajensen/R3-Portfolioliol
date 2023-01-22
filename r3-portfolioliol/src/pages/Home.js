@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 const Home = () => {
     return <div>
         <Navbar />
-        <Home />
+        <img className="img-responsive" src="/assets/FamilyPhoto" alt="familyPhoto"/>
         <Footer />
     </div>
 }
