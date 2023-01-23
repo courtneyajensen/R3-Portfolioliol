@@ -5,6 +5,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Questions](#questions)
+  * [Author](#author)
 
 
 
@@ -22,3 +23,6 @@ npm i - then run "npm start"
 Any questions about the project?
 Github: https://github.com/courtneyajensen
 Email: courtneyajensen14@gmail.com
+
+## Author <a author="author"></a>
+Courtney Jensen
