@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc31099b.css",
+    "main.js": "/static/js/main.2003d879.js",
+    "static/media/UpKeep.png": "/static/media/UpKeep.b769db4c95ddc3930698.png",
+    "static/media/NoteTaker.png": "/static/media/NoteTaker.6d2d7a9c6a6dcd593190.png",
+    "static/media/CodingQuiz.jpg": "/static/media/CodingQuiz.7b5d93c28a48672f20f4.jpg",
+    "index.html": "/index.html",
+    "main.dc31099b.css.map": "/static/css/main.dc31099b.css.map",
+    "main.2003d879.js.map": "/static/js/main.2003d879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc31099b.css",
+    "static/js/main.2003d879.js"
+  ]
+}
